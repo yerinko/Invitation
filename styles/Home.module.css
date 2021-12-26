@@ -108,9 +108,31 @@
   margin-left: 0.5rem;
 }
 
+
+.snow-flake {
+  color: #ffffff !important;
+  animation: fall 3.5s linear infinite;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+}
+
+@keyframes fall {
+  0% {
+    opacity: 0;
+  }
+  3% {
+    opacity: 0.9;
+  }
+  90% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate(0, 70px);
+    opacity: 0;
   }
 }
