@@ -38,10 +38,6 @@ export default function Home() {
                                     <ImageWrapper>
                                         <div>
                                             <h2>안녕 친구들아 호호호 메리 크리스마스!</h2>
-                                            {/*<br/>*/}
-                                            {/*<h2>Place: 호야네집</h2>*/}
-                                            {/*<h2>Date: 2021년 12월25일</h2>*/}
-                                            {/*<h2>Dress Code: RED & GREEN</h2>*/}
                                         </div>
                                     </ImageWrapper>
                                 </li>
@@ -49,7 +45,7 @@ export default function Home() {
                                     <ImageWrapper2>
                                         <div>
                                             <h2>장소🎄: 호야네집</h2>
-                                            <h2>일시🎄: 2021년 12월25일</h2>
+                                            <h2>일시🎄: 내년 크리스마스를 준비할게요!</h2>
                                             <h2>🤶🏻Dress Code: RED & GREEN🎅🏻</h2>
                                         </div>
                                     </ImageWrapper2>
