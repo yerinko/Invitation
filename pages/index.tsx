@@ -44,7 +44,7 @@ export default function Home() {
                                     <ImageWrapper2>
                                         <div>
                                             <h2>장소🎄: 호야네집</h2>
-                                            <h2>일시🎄: 2021년 12월25일</h2>
+                                            <h2>일시🎄: 내년 크리스마스를 준비할게요!</h2>
                                             <h2>🤶🏻Dress Code: RED & GREEN🎅🏻</h2>
                                         </div>
                                     </ImageWrapper2>
